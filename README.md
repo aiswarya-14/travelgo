@@ -1,8 +1,8 @@
-TravelGo – Travel Booking Web Application
+✈️ TravelGo – Travel Booking Web Application
 
 TravelGo is a Flask-based web application that allows users to explore travel destinations and book trips online. The system provides features such as user authentication, seat selection, travel scheduling, and booking history management.
 
-Features :
+🌟 Features :
 
     - User registration and login
 
@@ -18,7 +18,7 @@ Features :
 
     - Popular destinations section for travel inspiration
 
-Technologies Used :
+🛠️ Technologies Used :
 
     - Python
 
@@ -40,7 +40,7 @@ Technologies Used :
 
     - Amazon Web Services – Cloud platform
 
-Installation :
+⚙️ Installation :
 
 Clone the repository
 
@@ -62,7 +62,7 @@ Open in browser
 
 http://10.28.178.69:5000
 
-Project Structure
+🗂️ Project Structure
 
     - app.py               # Main Flask application
 
